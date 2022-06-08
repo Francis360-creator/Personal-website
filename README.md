@@ -30,3 +30,7 @@
    npm run build
    ```
    
+## :ladder: Other Packages Used
+:black_small_square: Material-Ui - https://mui.com/ \
+:black_small_square: Typist - https://www.npmjs.com/package/react-typist \
+:black_small_square: PropTypes - https://reactjs.org/docs/typechecking-with-proptypes.html

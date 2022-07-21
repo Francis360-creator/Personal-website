@@ -83,40 +83,31 @@ const JobList = () => {
 
   const experienceItems = {
     'Compass North': {
-      jobTitle: "Software Engineer @",
-      duration: "FEB 2022 -  Present",
+      jobTitle: "Software Engineering Intern @",
+      duration: "MAY 2022 -  Present",
       desc: [
-        "Working on the development of a startup mobile and web application for a flight tracking system using React Native and NESTJs.",
-        "Reviewing code and conducting testing for features on the front-end and back-end side of the application.",
-        "Building extensive test coverage for all new features to improve security and loading times."
+        "Spearheaded the development of a highly scalable application to provide a flight tracking system for pilots using React, TypeScript and NestJs. ",
+        "Performed in-depth analysis of large unstructured data, creating an automation to parse and transform it into easy-to-read reports for clients and analytics team.",
+        "Achieved 100%-unit test code coverage across all code changes and additions."
 
       ]
     },
-    NDMC: {
-      jobTitle: "Computer Programmer @",
-      duration: "SEPT 2021 - Present",
+    USDA: {
+      jobTitle: "Software Development Intern @",
+      duration: "SEPT 2021 - MAY 2022",
       desc: [
-        "Responsible for writing maintainable and extensible code in a team environment for various client sponsored projects.",
-        "Utilize programming languages such as C++, Java, React, Python, and HTML5, including supporting infrastructures like AWS and Terraform.",
-        "Worked alongside another developer to implement RESTful APIs in Java and Django, increasing internal analytics reporting speed by 20%."
+        "Responsible for writing maintainable and extensible code in a team environment for drought monitoring applications and other client sponsored projects",
+        "Utilized programming languages such as C++, Java, React, Python, and HTML5, including supporting infrastructures like AWS and Terraform.",
+        "Built RESTful obligation management APIs using Azure Cosmos DB and ASP.NET, increasing internal analytics reporting speed by 20%."
       ]
     },
     'Frontier Coop': {
       jobTitle: "Software Engineering Intern @",
       duration: "MAY 2021 - AUG 2021",
       desc: [
-        "Engineered modern applications with C++, Java, JavaScript, Python, and HTML5/CSS.",
+        "Full-stack app and web development with JavaScript, Python, Node.js, and a plethora of AWS services.",
         "Co-led the company’s move from AWS to Google Cloud Platform, which resulted in an annual savings of $250,000.",
         "Participated in a team of 4 software developers in designing improved software using algorithms to match users to products, improving retention and user experience by 5%."
-      ]
-    },
-    'University Of Nebraska': {
-      jobTitle: "IT Assistant @",
-      duration: "AUG 2020 - SEP 2021",
-      desc: [
-        "Provided IT support services, troubleshooting and system operation, resolving up to 10 client issues daily.",
-        "Maintained, repaired, and installed computing and network devices used in any part of the station’s facilities, including laptops, office computers, servers, and printers.",
-        "Trained and mentored over 5 new IT Student employees on software, hardware, and system usage."
       ]
     },
   };

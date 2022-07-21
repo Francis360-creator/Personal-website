@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../resume.pdf";
+import resume from "../assets/resume.pdf";
 import "../styles/Intro.css";
 import Typist from "react-typist";
 import "react-typist/dist/Typist.css";
@@ -29,13 +29,13 @@ class Intro extends React.Component {
           <span className="intro-title">
             {"hi, "}
             <span className="intro-name">{"serge"}</span>
-            {" here."}
+            {" here!"}
           </span>
         </Typist>
         <FadeInSection>
           <div className="intro-subtitle">I create stuff.</div>
           <div className="intro-desc">
-            I'm a software engineer and artist based in Lincoln, Nebraska. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
+            I'm a software engineer and student based in Lincoln, Nebraska. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
           </div>
           <a
             href="mailto:sergefrancis6@gmail.com"

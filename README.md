@@ -1,10 +1,10 @@
 <p align="center">
 </p>
 <h1 align="center">
-  francis360.com - v1
+  sergefrancis.me - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://francis360.com" target="_blank">francis360.com</a> built with React.js leveraging Material UI.
+  The first iteration of <a href="https://sergefrancis.me" target="_blank">sergefrancis.me</a> built with React.js leveraging Material UI.
 </p>
 
 ## 🛠 set-up
